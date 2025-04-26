@@ -1,0 +1,2 @@
+[console_scripts]
+netraven_run = netraven.__main__:main
